@@ -13,7 +13,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://finderprofile.netlify.app/
+          Live Project : https://finderprofile.netlify.app
 </h3>
 <br />
 
